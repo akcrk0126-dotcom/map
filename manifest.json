@@ -1,0 +1,17 @@
+{
+  "name": "LMU 캠퍼스 지도",
+  "short_name": "LMU Map",
+  "description": "Loyola Marymount University 캠퍼스 지도",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2ECE1",
+  "theme_color": "#7E1F2C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://www.lmu.edu/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
